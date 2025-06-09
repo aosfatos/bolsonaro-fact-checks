@@ -28,7 +28,7 @@ O arquivo contém uma linha para cada declaração checada e segue a estrutura a
 ---
 
 ## 📝 Nota metodológica
-Em maio de 2022, o Aos Fatos reduziu para três o número de selos de sua metodologia de checagem (leia mais [aqui](https://www.aosfatos.org/noticias/aos-fatos-estreia-cobertura-eleitoral-2022/). Na mudança, os selos "EXAGERADO", "IMPRECISO", "CONTRADITÓRIO" e "INSUSTENTÁVEL" foram substituídos por "NÃO É BEM ASSIM". 
+Em maio de 2022, o Aos Fatos reduziu para três o número de selos de sua metodologia de checagem (leia mais [aqui](https://www.aosfatos.org/noticias/aos-fatos-estreia-cobertura-eleitoral-2022/)). Na mudança, os selos "EXAGERADO", "IMPRECISO", "CONTRADITÓRIO" e "INSUSTENTÁVEL" foram substituídos por "NÃO É BEM ASSIM". 
 
 Para preservar a história do projeto, mas também facilitar análises, este repositório tem dois tipos de selos. As colunas _original_rating_ mostram os selos atribuídos às declarações tais como foram publicadas na época —ou seja, mistura as duas metodologias. Já as colunas _new_rating_ converte os selos anteriores a maio de 2022 para o novo formato.
 
