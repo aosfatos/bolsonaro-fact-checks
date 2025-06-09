@@ -17,7 +17,7 @@ O arquivo contém uma linha para cada declaração checada.
 | `claim_origin_url` | Link para a fonte original da declaração. |
 | `origin_type`               | Canal de onde a declaração foi tirada ex: Twitter, discurso, live, entrevista). |
 | `original_rating_label_pt`                | Selo de checagem atribuído à declaração (em português) usando a metodologia original do Aos Fatos|
-| `original_rating_label_pt`                | Selo de checagem atribuído à declaração (em português) usando a metodologia revisada do Aos Fatos|
+| `new_rating_label_pt`                | Selo de checagem atribuído à declaração (em português) usando a metodologia revisada do Aos Fatos|
 | `original_rating_label_en`                | Selo de checagem atribuído à declaração (em inglês) usando a metodologia original do Aos Fatos|
 | `new_rating_label_en`                | Selo de checagem atribuído à declaração (em inglês) usando a metodologia revisada do Aos Fatos|
 | `rating_full_pt`              | Explicação detalhada e em português da checagem |
