@@ -8,7 +8,7 @@ Este repositório disponibiliza uma planilha com todas as declarações feitas p
 
 **Nome do arquivo:** `bolsonaro-fact-checks.csv`
 
-O arquivo contém uma linha para cada declaração checada.
+O arquivo contém uma linha para cada declaração checada e segue a estrutura abaixo.
 
 | Coluna                | Descrição |
 |------------------------|-----------|
