@@ -1,7 +1,5 @@
 # Bolsonaro, checado
 
-
-
 Este repositório disponibiliza uma planilha com todas as declarações feitas por Jair Bolsonaro durante seu mandato como presidente do Brasil (2019-2022) e checadas pela equipe do **Aos Fatos**. Um painel interativo com esses dados pode ser acessado [aqui](https://www.aosfatos.org/todas-as-declaracoes-de-bolsonaro/).
 
 ---
