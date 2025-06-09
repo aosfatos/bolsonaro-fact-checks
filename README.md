@@ -34,12 +34,9 @@ Para preservar a história do projeto, mas também facilitar análises, este rep
 
 
 ## 📅 Última atualização
-
-📆 **30 de dezembro de 2022**  
-Essa foi a última data de coleta e verificação, encerrando o ciclo do governo Bolsonaro.
+30 de dezembro de 2022 
 
 ---
 
 ## 🛠️ Licença
-
 Este material é de uso livre para fins **educacionais e não comerciais**, desde que citado o crédito à equipe do [Aos Fatos](https://aosfatos.org).  
