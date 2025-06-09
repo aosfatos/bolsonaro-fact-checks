@@ -8,7 +8,7 @@ Este repositório disponibiliza uma planilha 6.685 declarações feitas por Jair
 
 **Nome do arquivo:** `bolsonaro-fact-checks.csv`
 
-O arquivo contém uma linha para cada declaração checada. Ele pode ser utilizado para fins de análise, visualização, auditoria pública ou estudos acadêmicos.
+O arquivo contém uma linha para cada declaração checada.
 
 | Coluna                | Descrição |
 |------------------------|-----------|
